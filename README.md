@@ -1,0 +1,1 @@
+This task loads the Titanic dataset, performs basic data cleaning (handling missing values and encoding categorical variables), and visualizes survival patterns using simple charts such as count plots, histograms, box plots, and a correlation heatmap.
